@@ -24,7 +24,7 @@ author: Christopher Eagan
 description: >-
   I like writing quality software.
 domain: ceagan.github.io
-url: "https://ceagan.github.io"
+url: https://ceagan.github.io
 baseurl: ""
 twitter_username: ceagan
 github_username: ceagan
