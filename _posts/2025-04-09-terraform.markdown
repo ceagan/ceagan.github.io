@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Terraform"
-date: 2024-09-17
+date: 2025-04-09
 categories: DevSecOps
 ---
 
