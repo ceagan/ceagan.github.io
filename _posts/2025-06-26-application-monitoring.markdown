@@ -7,7 +7,7 @@ categories: Operations Monitoring
 
 I've noticed that Application Monitoring vendors and salespeople love to show off all their pie charts and graphs of metrics that they can automatically generate from an application and its deployment infrastructure. They claim this information is perfect for determining whether your application is working properly.
 
-It's not a lie, but it isn't the whole truth either. Consider an application that is running steadily with no user complaints and using only 20% of the available memory on a node. The monitoring software will tell you this is great! I would argue that the node is over-allocated and you are spending too much money on it. If your memory usage is 90%, the monitoring software will say this is terrible! I would argue that this node is right-sized.
+It's not a lie, but it isn't the whole truth either. Consider an application that is running steadily with no user complaints and using only 20% of the available memory on a node. The monitoring software will tell you this is great! I would argue that the node is over-allocated, and you are spending too much money on it. If your memory usage is 90%, the monitoring software will say this is terrible! I would argue that this node is right-sized.
 
 So what metrics should we actually be looking at? The most important metrics to monitor for a software application are the ones that measure performance against purpose:
 
